@@ -1,0 +1,16 @@
+*~
+*.o
+*.so
+*.dylib
+*.os
+*.la
+*.a
+*.pyo
+*.pyc
+*.fits
+*.cfgc
+.sconf_temp/*
+.sconsign.dblite
+tests/.tests
+config.log
+python/hsc/pipeline/version.py
