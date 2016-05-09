@@ -14,3 +14,4 @@
 tests/.tests
 config.log
 python/hsc/pipeline/version.py
+bin
